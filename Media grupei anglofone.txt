@@ -1,0 +1,12 @@
+Nume Prenume Nota Limba Straina
+Babalau Cristian 9 Engleza 
+Codreanu Alexandru 4 Engleza 
+Darii Anastasia 9 Engleza 
+Grozavu David 9 Engleza 
+Mandrescu Stefan 10 Engleza 
+Moscvin Andreea 8 Engleza 
+Radetkaia Ecaterina 6 Engleza 
+Sinigribov Serghei 8 Engleza 
+Tambur Ana-Maria 9 Engleza 
+
+Media grupei engleze este 8.0

@@ -1,0 +1,12 @@
+Nume Prenume Nota Limba Straina
+Andronic Aura-Zlata 8 Franceza 
+Biliciuc AnaMaria 10 Franceza 
+Bufteac Ecaterina 9 Franceza 
+Cebotari Anastasia 8 Franceza 
+Cordun Andreea 8 Franceza 
+Dubenco Alexandra 7 Franceza 
+Sanduleac Loredana 9 Franceza 
+Stici Vasile 10 Franceza 
+Tihonschi Alexandra 9 Franceza 
+
+Media grupei franceze este 8.667
